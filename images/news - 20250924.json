@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB1.png",
+    "date": "Jueves 25 de septiembre",
+    "category": "",
+    "title": "Cómo incrementar el valor de una empresa a partir de la estrategia financiera",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/watch?v=x07c88N0I7w",
+    "location": "YouTube UPB Académico"
+  },
+  {
+    "id": 2,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB2.png",
+    "date": "Miércoles 24 de septiembre",
+    "category": "",
+    "title": "Lectura, sentidos y cultura: así se vivió la 19.ª Fiesta del Libro en Medellín",
+    "moreread": "Lee el artículo aquí",
+    "link": "https://www.upb.edu.co/ss/Satellite?c=UPB_Noticia&cid=1464292990934&pagename=UPB_PortalPrincipal%2FUPB_Noticia%2FGRID_DETALLE_NOTICIA",
+    "location": "Portal UPB"
+  },
+  {
+    "id": 3,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB3.png",
+    "date": "Miércoles 24 de septiembre",
+    "category": "",
+    "title": "Domina el tiempo, conquista tu Posgrado: Cómo el manejo del tiempo mejora tu calidad de vida",
+    "moreread": "Mirá esta masterclass aquí",
+    "link": "https://www.youtube.com/watch?v=0TjbD2vIIg0&t=3s",
+    "location": "YouTube UPB Académico"
+  }
+]

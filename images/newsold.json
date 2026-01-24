@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB1.png",
+    "date": "Martes 2 de septiembre",
+    "category": "",
+    "title": "Conoce la historia de la estudiante de Medicina María José Martínez Maya",
+    "moreread": "Lee el artículo aquí",
+    "link": "https://www.upb.edu.co/ss/Satellite?c=UPB_Noticia&cid=1464292266357&pagename=UPB_PortalPrincipal%2FUPB_Noticia%2FGRID_DETALLE_NOTICIA",
+    "location": "Portal UPB"
+  },
+  {
+    "id": 2,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB2.png",
+    "date": "Martes 2 de septiembre",
+    "category": "",
+    "title": "¿Aún no nos sigues? Entérate de todo en nuestro Instagram: @upbvirtual",
+    "moreread": "¡Síguenos en Instagram!",
+    "link": "https://www.instagram.com/upbvirtual",
+    "location": "Instagram"
+  },
+  {
+    "id": 3,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB3.png",
+    "date": "Martes 2 de septiembre",
+    "category": "",
+    "title": "Conoce más sobre la microbiota con el doctor en neurociencias chileno, Ismael Palacios",
+    "moreread": "Lee el artículo aquí",
+    "link": "https://www.upb.edu.co/ss/Satellite?c=UPB_Noticia&cid=1464292213025&pagename=UPB_PortalPrincipal%2FUPB_Noticia%2FGRID_DETALLE_NOTICIA",
+    "location": "Portal UPB"
+  }
+]

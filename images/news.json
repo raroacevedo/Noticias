@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB1.png",
+    "date": "Martes 11 al jueves 13 de noviembre",
+    "category": "",
+    "title": "11ª Feria FISE | Evento del sector eléctrico más importante en la región Latam ",
+    "moreread": "Regístrate sin costo",
+    "link": "https://live.eventtia.com/es/feriafise2025",
+    "location": "Feria FISE"
+  },
+  {
+    "id": 2,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB2.png",
+    "date": "Miércoles, 12 de noviembre",
+    "category": "",
+    "title": "Clase demo en vivo: ¿Podría la IA generativa tomar decisiones por ti? | Participa y obtén un beneficio del 20% en la Maestría en Ciencia de Datos",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/watch?v=uAcxcMuXDpI",
+    "location": "YouTube UPB Académico"
+  },
+  {
+    "id": 3,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB3.png",
+    "date": "Miércoles, 19 de noviembre",
+    "category": "",
+    "title": "De la intuición al insight: la comunicación guiada por datos en un mundo de IA | Masterclass Maestría en Comunicación Digital",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/live/uiHBTtnV-us",
+    "location": "YouTube UPB Académico"
+  }
+]

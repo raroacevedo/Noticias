@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Noticias UPBVIRTUAL</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="tabs">
+
+      <button class="tab active" onclick="showTab(event, 'agenda')">Agenda UPB</button>
+      <button class="tab" onclick="showTab(event, 'noticias')">Noticias</button>
+
+    </div>
+
+    <div id="agenda" class="tab-content "></div>
+    <div id="noticias" class="tab-content hidden"></div>
+ 
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

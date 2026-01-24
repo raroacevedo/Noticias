@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB1.png",
+    "date": "Martes 7 de octubre",
+    "category": "",
+    "title": "Alianza Maestra: Claves para una relación exitosa asesor-estudiante | Masterclass",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/watch?v=EwbSV6RzRK8",
+    "location": "YouTube UPB Académico"
+  },
+  {
+    "id": 2,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB2.png",
+    "date": "Miércoles 8 de octubre",
+    "category": "",
+    "title": "Workshop Ruge: cartografías del cuidado y entornos seguros | Bienestar UPB",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/watch?v=bXUyuSCZbUI",
+    "location": "YouTube UPB Académico"
+  },
+  {
+    "id": 3,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB3.png",
+    "date": "Martes 14 de octubre",
+    "category": "",
+    "title": "Marketing Singularity: Cómo la IA Cambia las Reglas del Juego | Masterclass",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/watch?v=sY9HnNC18MM",
+    "location": "YouTube UPB Académico"
+  }
+]

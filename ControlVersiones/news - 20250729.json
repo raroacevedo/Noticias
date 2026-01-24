@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB1.png",
+    "date": "Jueves 24 de Julio, 10:30 a.m.",
+    "category": "",
+    "title": "Amor social, una categoría para el mundo civil",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/live/ALIvte2OWtA",
+    "location": "Conéctate a Youtube, canal UPB Academico"
+  },
+  {
+    "id": 2,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB2.png",
+    "date": "Jueves 24 de Julio, 2:30 p.m.",
+    "category": "",
+    "title": "Abordaje inicial de causas de paro cardiorrespiratorio",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/watch?v=S8aaBZ6itLM",
+    "location": "Conéctate a Youtube, canal UPB Academico"
+  },
+  {
+    "id": 3,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB3.png",
+    "date": "Martes 29 de julio, 10:00 a.m.",
+    "category": "",
+    "title": "Masculinidades digitalizadas: entre radicalidad y resistencias",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/live/CYcPz1ELcnc",
+    "location": "Videowall EcoCampus Laureles, Medellín - Conéctate a Youtube, canal UPB Academico"
+  }
+]

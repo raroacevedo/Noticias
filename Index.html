@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Noticias y Eventos UPB</title>
+  <!-- Enlace a la hoja de estilos externa -->
+   <link rel="stylesheet" href="./styles.css">
+  <!--<link rel="stylesheet" href="/content/Componentes/NoticiasUPBVIRTUAL/styles.css"> -->
+</head>
+<body>
+
+  <!-- Encabezado oculto visualmente pero accesible para lectores de pantalla -->
+  <header class="sr-only">
+    <h1>Agenda y Noticias UPB</h1>
+  </header>
+
+  <main class="main-container">
+    <!-- Navegación de Pestañas (Tabs) -->
+    <!-- Los atributos aria-controls vinculan el botón con su panel correspondiente -->
+    <nav class="tabs-nav" role="tablist" aria-label="Agenda y Noticias ademas de Eventos virtuales">
+      <button 
+        class="tab-btn active" 
+        role="tab" 
+        aria-selected="true" 
+        aria-controls="panel-noticias" 
+        id="tab-noticias">
+        Agenda y Noticias
+      </button>
+      <button 
+        class="tab-btn" 
+        role="tab" 
+        aria-selected="false" 
+        aria-controls="panel-eventos" 
+        id="tab-eventos">
+        Eventos virtuales
+      </button>
+    </nav>
+
+    <!-- Panel 1: Noticias -->
+    <!-- Este contenedor recibirá las noticias y agenda (fecha >= fecha actual) -->
+    <section 
+      id="panel-noticias" 
+      role="tabpanel" 
+      aria-labelledby="tab-noticias" 
+      class="tab-panel active">
+      <div id="news-grid" class="news-grid">
+        <p class="loading-text">Cargando noticias...</p>
+      </div>
+    </section>
+
+    <!-- Panel 2: Eventos -->
+    <!-- Este contenedor recibirá el carrusel de eventos (fecha <fecha actual y tipo Eventos) -->
+    <section 
+      id="panel-eventos" 
+      role="tabpanel" 
+      aria-labelledby="tab-eventos" 
+      class="tab-panel">
+      <div id="events-container">
+        <p class="loading-text">Cargando eventos...</p>
+      </div>
+    </section>
+
+  </main>
+
+  <noscript>
+    <div class="main-container">
+      <p>Para visualizar las noticias y eventos es necesario habilitar JavaScript en tu navegador.</p>
+    </div>
+  </noscript>
+
+  <!-- Enlace al script con la lógica de negocio -->
+  <script src="./script.js"></script>
+  <!-- <script src="/content/Componentes/NoticiasUPBVIRTUAL/script.js"></script> -->
+</body>
+</html>

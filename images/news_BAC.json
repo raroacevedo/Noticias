@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB1.png",
+    "date": "Jueves 11 de septiembre",
+    "category": "",
+    "title": "Del ego profesional al bienestar ético: claves para formar con sentido",
+    "moreread": "Conéctate aquí",
+    "link": "https://www.youtube.com/live/fl5DOzaJgZA",
+    "location": "YouTube UPB Académico"
+  },
+  {
+    "id": 2,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB2.png",
+    "date": "Martes 2 de septiembre",
+    "category": "",
+    "title": "¿Aún no nos sigues? Entérate de todo en nuestro Instagram: @upbvirtual",
+    "moreread": "¡Síguenos en Instagram!",
+    "link": "https://www.instagram.com/upbvirtual",
+    "location": "Instagram"
+  },
+  {
+    "id": 3,
+    "image": "/content/Componentes/NoticiasUPBVIRTUAL/images/AgendaUPB3.png",
+    "date": "Viernes 12 de septiembre",
+    "category": "",
+    "title": "¡Docente UPB! Conoce el ABC de Brightspace e inscríbete a este taller virtual",
+    "moreread": "Inscríbete aquí",
+    "link": "https://forms.office.com/r/iNMVPdvD3M",
+    "location": "ABC de Brightspace"
+  }
+]

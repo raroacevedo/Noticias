@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/content/NoticiasUPBVIRTUAL/images/CASAP.jpeg",
+    "date": "miércoles, 14 de mayo 07:00 am al 16 de mayo 01:00 pm",
+    "title": "CASAP: un congreso por la calidad del aire y la salud pública llega a la UPB",
+    "link": "https://www.upb.edu.co/es/eventos/casap",
+    "location": "Fórum UPB"
+  },
+  {
+     "id": 2,
+    "image": "/content/NoticiasUPBVIRTUAL/images/OpenDayPosgrados.jpeg",
+    "date": "sábado, 17 de mayo 09:00 am a 12:00 pm",
+    "title": "Open Day Posgrados",
+    "link": "https://www.upb.edu.co/es/eventos/open-day-posgrados",
+    "location": "Fórum UPB"
+  },
+  {
+    "id": 3,
+    "image": "/content/NoticiasUPBVIRTUAL/images/BibliotecaNoche.jpeg",
+    "date": "lunes, 19 de mayo 07:00 am al 30 de mayo 10:00 pm5",
+    "title": "¡Disfruta de la Biblioteca 24 horas y prepara tus finales!",
+    "link": "https://www.upb.edu.co/es/eventos/biblioteca-24-horas-medellin",
+    "location": "Biblioteca Central Monseñor Darío Múnera Vélez"
+  }
+]
